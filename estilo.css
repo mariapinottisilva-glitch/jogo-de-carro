@@ -1,13 +1,13 @@
 body {
-  background: #4d4d9f;
-  color: rgb(194, 38, 38);
+  background: #202035;
+  color: white;
   font-family: Arial, sans-serif;
   text-align: center;
 }
 
 
 h1 {
-  color: #52b386;
+  color: #00ff88;
 }
 
 
@@ -15,8 +15,8 @@ h1 {
 #pista {
   width: 300px;
   height: 400px;
-  background: #723838;
-  border: 3px solid rgb(106, 183, 183);
+  background: #111;
+  border: 3px solid cyan;
   margin: 20px auto;
   position: relative;
   overflow: hidden;
@@ -28,7 +28,7 @@ h1 {
   position: absolute;
   width: 2px;
   height: 100%;
-  background: #991b1b;
+  background: #555;
   top: 0;
 }
 
@@ -59,23 +59,23 @@ h1 {
   position: absolute;
   width: 26px;
   height: 20px;
-  background: #f54343;
+  background: #222;
   top: 15px;
   left: 7px;
 }
 
 
 #jogador {
-  background: #47b682;
-  color: #ed6c52;
+  background: #00ff88;
+  color: #00ff88;
   left: 130px;
   top: 310px;
 }
 
 
 #inimigo {
-  background: #9a3960;
-  color: #04e1e1;
+  background: #ff0066;
+  color: #ff0066;
   left: 30px;
   top: -70px;
 }
